@@ -9,7 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIWebView *webView;
 
+- (IBAction)loadurlAction:(id)sender;
+//- (IBAction)loadHtmlAction:(id)sender;
+//- (IBAction)loadDataAction:(id)sender;
 
 @end
 

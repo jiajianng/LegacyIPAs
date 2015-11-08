@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		904651EC1BE9E3D100F2AA6B /* iOS 6 IPAs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS 6 IPAs.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		904651EC1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Legacy Apps.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		904651F01BE9E3D100F2AA6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		904651F11BE9E3D100F2AA6B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		904651F31BE9E3D100F2AA6B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		904651FD1BE9E3D100F2AA6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		904651FF1BE9E3D100F2AA6B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		904652021BE9E3D100F2AA6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		904652081BE9E3D200F2AA6B /* iOS 6 IPAsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS 6 IPAsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		904652081BE9E3D200F2AA6B /* Legacy Apps.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Legacy Apps.temp_caseinsensitive_renameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9046520D1BE9E3D200F2AA6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9046520E1BE9E3D200F2AA6B /* iOS_6_IPAsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_6_IPAsTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,8 +75,8 @@
 		904651ED1BE9E3D100F2AA6B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				904651EC1BE9E3D100F2AA6B /* iOS 6 IPAs.app */,
-				904652081BE9E3D200F2AA6B /* iOS 6 IPAsTests.xctest */,
+				904651EC1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename.app */,
+				904652081BE9E3D200F2AA6B /* Legacy Apps.temp_caseinsensitive_renameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -127,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		904651EB1BE9E3D100F2AA6B /* iOS 6 IPAs */ = {
+		904651EB1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 904652121BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "iOS 6 IPAs" */;
+			buildConfigurationList = 904652121BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "Legacy Apps.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				904651E81BE9E3D100F2AA6B /* Sources */,
 				904651E91BE9E3D100F2AA6B /* Frameworks */,
@@ -139,14 +139,14 @@
 			);
 			dependencies = (
 			);
-			name = "iOS 6 IPAs";
+			name = "Legacy Apps.temp_caseinsensitive_rename";
 			productName = "iOS 6 IPAs";
-			productReference = 904651EC1BE9E3D100F2AA6B /* iOS 6 IPAs.app */;
+			productReference = 904651EC1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		904652071BE9E3D200F2AA6B /* iOS 6 IPAsTests */ = {
+		904652071BE9E3D200F2AA6B /* Legacy Apps.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 904652151BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "iOS 6 IPAsTests" */;
+			buildConfigurationList = 904652151BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "Legacy Apps.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				904652041BE9E3D200F2AA6B /* Sources */,
 				904652051BE9E3D200F2AA6B /* Frameworks */,
@@ -157,9 +157,9 @@
 			dependencies = (
 				9046520A1BE9E3D200F2AA6B /* PBXTargetDependency */,
 			);
-			name = "iOS 6 IPAsTests";
+			name = "Legacy Apps.temp_caseinsensitive_renameTests";
 			productName = "iOS 6 IPAsTests";
-			productReference = 904652081BE9E3D200F2AA6B /* iOS 6 IPAsTests.xctest */;
+			productReference = 904652081BE9E3D200F2AA6B /* Legacy Apps.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -180,7 +180,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 904651E71BE9E3D100F2AA6B /* Build configuration list for PBXProject "iOS 6 IPAs" */;
+			buildConfigurationList = 904651E71BE9E3D100F2AA6B /* Build configuration list for PBXProject "Legacy Apps" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -193,8 +193,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				904651EB1BE9E3D100F2AA6B /* iOS 6 IPAs */,
-				904652071BE9E3D200F2AA6B /* iOS 6 IPAsTests */,
+				904651EB1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename */,
+				904652071BE9E3D200F2AA6B /* Legacy Apps.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -244,7 +244,7 @@
 /* Begin PBXTargetDependency section */
 		9046520A1BE9E3D200F2AA6B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 904651EB1BE9E3D100F2AA6B /* iOS 6 IPAs */;
+			target = 904651EB1BE9E3D100F2AA6B /* Legacy Apps.temp_caseinsensitive_rename */;
 			targetProxy = 904652091BE9E3D200F2AA6B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -303,10 +303,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -338,10 +339,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Release;
 		};
@@ -353,7 +355,8 @@
 				INFOPLIST_FILE = "iOS 6 IPAs/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Legacy Apps.temp_caseinsensitive_rename";
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -365,14 +368,15 @@
 				INFOPLIST_FILE = "iOS 6 IPAs/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Legacy Apps.temp_caseinsensitive_rename";
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Release;
 		};
 		904652161BE9E3D200F2AA6B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
+				BUNDLE_LOADER = "build/Debug-iphoneos/Legacy Apps.temp_caseinsensitive_rename.app/Legacy Apps.temp_caseinsensitive_rename";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -384,7 +388,7 @@
 				);
 				INFOPLIST_FILE = "iOS 6 IPAsTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Legacy Apps.temp_caseinsensitive_renameTests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS 6 IPAs.app/iOS 6 IPAs";
 			};
 			name = Debug;
@@ -392,7 +396,7 @@
 		904652171BE9E3D200F2AA6B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
+				BUNDLE_LOADER = "build/Release-iphoneos/Legacy Apps.temp_caseinsensitive_rename.app/Legacy Apps.temp_caseinsensitive_rename";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -400,7 +404,7 @@
 				);
 				INFOPLIST_FILE = "iOS 6 IPAsTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Legacy Apps.temp_caseinsensitive_renameTests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS 6 IPAs.app/iOS 6 IPAs";
 			};
 			name = Release;
@@ -408,7 +412,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		904651E71BE9E3D100F2AA6B /* Build configuration list for PBXProject "iOS 6 IPAs" */ = {
+		904651E71BE9E3D100F2AA6B /* Build configuration list for PBXProject "Legacy Apps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				904652101BE9E3D200F2AA6B /* Debug */,
@@ -417,7 +421,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		904652121BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "iOS 6 IPAs" */ = {
+		904652121BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "Legacy Apps.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				904652131BE9E3D200F2AA6B /* Debug */,
@@ -426,7 +430,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		904652151BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "iOS 6 IPAsTests" */ = {
+		904652151BE9E3D200F2AA6B /* Build configuration list for PBXNativeTarget "Legacy Apps.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				904652161BE9E3D200F2AA6B /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "904651EB1BE9E3D100F2AA6B"
-               BuildableName = "iOS 6 IPAs.app"
-               BlueprintName = "iOS 6 IPAs"
-               ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+               BuildableName = "Legacy Apps.temp_caseinsensitive_rename.app"
+               BlueprintName = "Legacy Apps.temp_caseinsensitive_rename"
+               ReferencedContainer = "container:Legacy Apps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "904652071BE9E3D200F2AA6B"
-               BuildableName = "iOS 6 IPAsTests.xctest"
-               BlueprintName = "iOS 6 IPAsTests"
-               ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+               BuildableName = "Legacy Apps.temp_caseinsensitive_renameTests.xctest"
+               BlueprintName = "Legacy Apps.temp_caseinsensitive_renameTests"
+               ReferencedContainer = "container:Legacy Apps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "904652071BE9E3D200F2AA6B"
-               BuildableName = "iOS 6 IPAsTests.xctest"
-               BlueprintName = "iOS 6 IPAsTests"
-               ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+               BuildableName = "Legacy Apps.temp_caseinsensitive_renameTests.xctest"
+               BlueprintName = "Legacy Apps.temp_caseinsensitive_renameTests"
+               ReferencedContainer = "container:Legacy Apps.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "904651EB1BE9E3D100F2AA6B"
-            BuildableName = "iOS 6 IPAs.app"
-            BlueprintName = "iOS 6 IPAs"
-            ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+            BuildableName = "Legacy Apps.temp_caseinsensitive_rename.app"
+            BlueprintName = "Legacy Apps.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:Legacy Apps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "904651EB1BE9E3D100F2AA6B"
-            BuildableName = "iOS 6 IPAs.app"
-            BlueprintName = "iOS 6 IPAs"
-            ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+            BuildableName = "Legacy Apps.temp_caseinsensitive_rename.app"
+            BlueprintName = "Legacy Apps.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:Legacy Apps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "904651EB1BE9E3D100F2AA6B"
-            BuildableName = "iOS 6 IPAs.app"
-            BlueprintName = "iOS 6 IPAs"
-            ReferencedContainer = "container:iOS 6 IPAs.xcodeproj">
+            BuildableName = "Legacy Apps.temp_caseinsensitive_rename.app"
+            BlueprintName = "Legacy Apps.temp_caseinsensitive_rename"
+            ReferencedContainer = "container:Legacy Apps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

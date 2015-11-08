@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57D8A263-3E6A-4C87-918B-69D33FAD422A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Legacy Apps</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD282A0D7B8FCD0D2E97A35F9B1E6A5E2D269103</key>
+		<string>https://github.com/jiajianng/iOS-6-IPAs-by-7bubbl3s-and-jiajianng.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Legacy Apps.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD282A0D7B8FCD0D2E97A35F9B1E6A5E2D269103</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jiajianng/iOS-6-IPAs-by-7bubbl3s-and-jiajianng.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD282A0D7B8FCD0D2E97A35F9B1E6A5E2D269103</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD282A0D7B8FCD0D2E97A35F9B1E6A5E2D269103</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS%206%20IPAs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
